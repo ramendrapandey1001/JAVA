@@ -16,7 +16,6 @@ public class StackUsingQueue {
         StackUsingQueue.add("Jagdish");
         StackUsingQueue.add("Ramkishan");
         StackUsingQueue.print();
-        q1.
     }
 
     public static void add(String str) {
