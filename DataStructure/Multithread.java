@@ -6,5 +6,6 @@ public class Multithread extends Thread {
     public void run() {
         System.out.println("Inside Run");
         super.run();
+        
     }
 }
