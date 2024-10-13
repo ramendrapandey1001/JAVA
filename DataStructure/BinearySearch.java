@@ -3,6 +3,9 @@ package DataStructure;
 public class BinearySearch {
     static int ind = -1;
 
+    public static void main(String[] args) {
+
+
         int arr[] = { 1, 2, 3, 6, 8, 14, 24, 39, 54, 87, 102, 265, 475, 985 };
         int x = 50;
         int index = BinearySearch.binearySearch(arr, 0, 14, x);
