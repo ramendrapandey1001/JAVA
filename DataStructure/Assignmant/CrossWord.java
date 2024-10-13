@@ -1,4 +1,4 @@
-package JAVA.DataStructure.Assignmant;
+package DataStructure.Assignmant;
 
 public class CrossWord {
     static char arr[][] = new char[10][10];

@@ -1,4 +1,4 @@
-package JAVA.DataStructure.Assignmant;
+package DataStructure.Assignmant;
 
 public class HappyNumber {
     public static void main(String[] args) {

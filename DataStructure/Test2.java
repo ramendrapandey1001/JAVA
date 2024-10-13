@@ -53,6 +53,8 @@ public class Test2 {
         arr[4] = "Sigma";
         int x = 0;
 
+
+
         for (String string : arr) {
             arraylist.add(string);
             list.add(string);
