@@ -4,10 +4,7 @@ A k x k magic square is a k x k grid filled with integers such that every row su
 
 Given an m x n integer grid, return the size (i.e., the side length k) of the largest magic square that can be found within this grid.
 
- 
-
 Example 1:
-
 
 Input: grid = [[7,1,4,5,6],[2,5,1,6,4],[1,5,4,3,2],[1,2,7,3,4]]
 Output: 3
