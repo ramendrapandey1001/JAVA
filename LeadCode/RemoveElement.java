@@ -1,4 +1,4 @@
-package JAVA.LeadCode;
+package LeadCode;
 
 import java.util.Arrays;
 

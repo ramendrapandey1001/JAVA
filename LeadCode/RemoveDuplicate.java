@@ -1,4 +1,4 @@
-package JAVA.LeadCode;
+package LeadCode;
 
 /**
  * 26. Remove Duplicates from Sorted Array
